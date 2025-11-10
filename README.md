@@ -21,5 +21,5 @@ U.S. Census "Adult Income" dataset (cleaned version).
 Used for educational purposes to explore income prediction modeling.
 
 ## Author
-Developed by **Wael ZC** as part of the *Machine Learning* course (2025).  
-[GitHub](https://github.com/Wael-ZC) • [LinkedIn](https://www.linkedin.com/in/your-link)
+Developed by Wael ZC as part of the *Machine Learning* course (2025).  
+[GitHub](https://github.com/Wael-ZC)
